@@ -7,13 +7,10 @@ import { useDispatch, useSelector } from "react-redux";
 import { signUp } from "../store/users/action";
 
 const SignUp = () => {
-
-  
   const dispatch = useDispatch();
   const navigate = useNavigate();
-  
-  return (
 
+  return (
     <div className="signupBanner d-flex justify-content-center">
       <div className="formbg">
         <div className="row g-0">
@@ -56,7 +53,7 @@ const SignUp = () => {
                   setTimeout(() => {
                     dispatch(signUp(values));
                     setSubmitting(false);
-                    navigate("/login")
+                    navigate("/login");
                     resetForm();
                   }, 400);
                 }}
@@ -140,7 +137,19 @@ const SignUp = () => {
                 )}
               </Formik>
               <div className="my-2">
-                <Link className="text-dark text-decoration-none" to={"/login"} ><span role="button" className="me-5 pe-5">Login</span></Link> <Link className="text-dark text-decoration-none" to={"/forget-password"} ><span role="button" className="ms-5 ps-5">Forget Password ?</span></Link>
+                <Link className="text-dark text-decoration-none" to={"/login"}>
+                  <span role="button" className="me-5 pe-5">
+                    Login
+                  </span>
+                </Link>
+                <Link
+                  className="text-dark text-decoration-none"
+                  to={"/forget-password"}
+                >
+                  <span role="button" className="ms-5 ps-5">
+                    Forget Password ?
+                  </span>
+                </Link>
               </div>
             </div>
           </div>

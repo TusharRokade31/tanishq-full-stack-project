@@ -156,7 +156,7 @@ export const updateProduct = async (req, res) => {
 
 export const getSearchProducts = async (req, res) => {
   try {
-    const { page, size, search } = req.query;
+      const { page, size, search } = req.query;
 
     const skipno = (page - 1) * size;
 

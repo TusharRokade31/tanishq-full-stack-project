@@ -34,6 +34,23 @@ export const getItems = createAsyncThunk(
   }
 );
 
+
+export const clearItem = createAsyncThunk(
+  "clearItem",
+  async (userid, { rejectWithValue }) => {
+    try {
+      const { data } = await axios.delete(
+        `http://localhost:8001/carts/clear-cart`,
+        userid
+        
+      );
+      return data
+    } catch (error) {
+      return rejectWithValue(error);
+    }
+  }
+);
+
 export const updateQuantity = createAsyncThunk(
   "updateQuantity",
   async ({cartId, type }, { rejectWithValue }) => {

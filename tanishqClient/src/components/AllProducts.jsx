@@ -32,12 +32,14 @@ const currencies = [
 ];
 
 const AllProducts = () => {
-  // const [pageCount, Setpagecount] = useState(1) 
+  // const [pageCount, Setpagecount] = useState(1)
   const { category } = useParams();
-  const categoryName = category.replace(/-/g, " ").split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
-    
+  const categoryName = category
+    .replace(/-/g, " ")
+    .split(" ")
+    .join(" ");
 
-    const dispatch = useDispatch();
+  const dispatch = useDispatch();
 
   // useEffect(() => {
   //   dispatch(getProducts({page: pageCount, size: '', search: '' }));
@@ -50,7 +52,6 @@ const AllProducts = () => {
     setSelectedValue(event.target.value);
   };
 
-
   useEffect(() => {
     dispatch(getAllProducts());
   }, []);
@@ -58,7 +59,11 @@ const AllProducts = () => {
   const data = useSelector((state) => state.productss);
   const products = data.products;
 
-  const filterData = filterProductsByCategory(products, categoryName, selectedValue);
+  const filterData = filterProductsByCategory(
+    products,
+    categoryName,
+    selectedValue
+  );
 
   return (
     <>
@@ -80,7 +85,7 @@ const AllProducts = () => {
         </div>
       </div>
       <div className="py-3 container align-items-center d-flex justify-content-between">
-        <OffCanvas />
+        {/* <OffCanvas /> */}
         <div>
           <div className="d-flex">
             <p className="w-50 mt-3 me-2 dark">SORT BY:</p>
@@ -90,8 +95,8 @@ const AllProducts = () => {
               select
               label="Select"
               defaultValue="Best Matches"
-              value={selectedValue}  // Bind state to TextField value
-              onChange={handleChange} 
+              value={selectedValue} // Bind state to TextField value
+              onChange={handleChange}
             >
               {currencies.map((option) => (
                 <MenuItem key={option.value} value={option.value}>

@@ -167,9 +167,9 @@ const Appbar = () => {
                               to={`/shop/${men.mens
                                 .replace(/\s+/g, "-")
                                 .toLowerCase()}`}
-                              key={men.mens}
+                              key={men.mens.toUpperCase()}
                             >
-                              {men.mens.split(" ").slice(1)}
+                              {men.mens}
                             </Link>
                           );
                         })}
@@ -187,7 +187,7 @@ const Appbar = () => {
                                 .toLowerCase()}`}
                               key={kid.kids}
                             >
-                              {kid.kids.split(" ").slice(1)}
+                              {kid.kids.toUpperCase()}
                             </Link>
                           );
                         })}
@@ -369,7 +369,7 @@ const Appbar = () => {
                                 .toLowerCase()}`}
                               key={price.price}
                             >
-                              {price.price.split(" ").slice(1)}
+                              {price.price.split(" ").pop(1)}
                             </Link>
                           );
                         })}

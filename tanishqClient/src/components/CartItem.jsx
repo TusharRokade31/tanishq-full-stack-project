@@ -3,7 +3,11 @@ import { ImBin } from "react-icons/im";
 import { useDispatch } from "react-redux";
 import { deleteItems, getItems, updateQuantity } from "../store/cart/action";
 import { Link } from "react-router-dom";
-import { AiTwotoneMinusCircle, AiTwotonePlusCircle } from "react-icons/ai";
+import { FiPlus } from "react-icons/fi";
+import { FiMinus } from "react-icons/fi";
+import { AiOutlineDelete } from "react-icons/ai";
+
+
 import Toast from "react-bootstrap/Toast";
 
 const CartItem = ({ item, cartmessage }) => {
@@ -16,7 +20,7 @@ const CartItem = ({ item, cartmessage }) => {
 
   function inc() {
     dispatch(updateQuantity({ cartId: item._id, type: "inc" }));
-    if(item.quantity == 10){
+    if (item.quantity == 10) {
       setShow(true);
     }
   }
@@ -40,32 +44,43 @@ const CartItem = ({ item, cartmessage }) => {
         <div>
           <h5>{item.title}</h5>
           <p>Weight :{item.productID?.gross_weight}g</p>
-          <div className="d-flex flex-row mb-2">
-            <span className="fw-bold me-2">Qty:</span>
+          <div className="d-flex align-items-center flex-row mb-2">
             <div>
-              <AiTwotoneMinusCircle
-                className="fs-3"
+              <button
                 onClick={item.quantity == 1 ? deleteitem : dec}
-              />
-              <span className="fw-bold">{item?.quantity}</span>
-              <AiTwotonePlusCircle className="fs-3" onClick={inc} />
-            </div>
-            
-          </div>
-          {cartmessage == "empty" ? "" : (
-              <Toast
-                onClose={() => setShow(false)}
-                show={show}
-                delay={1000}
-                autohide
+                type="button"
+                class=" btn btn-outline-primary"
               >
-                <Toast.Body>{cartmessage}</Toast.Body>
-              </Toast>
-            )}
-          <h5>₹ {item.price}</h5>
-          <button onClick={deleteitem}>
-            <ImBin /> Remove
+                <FiMinus />
+              </button>
+              <span className=" fw-bold px-2">{item?.quantity}</span>
+              <button
+                onClick={inc}
+                type="button"
+                class="me-5 btn btn-outline-primary"
+              >
+                <FiPlus />
+              </button>
+            </div>
+            <button className="deleteBtn btn btn-outline-danger " onClick={deleteitem}>
+            <AiOutlineDelete/>
           </button>
+          </div>
+
+          {cartmessage == "empty" ? (
+            ""
+          ) : (
+            <Toast
+              onClose={() => setShow(false)}
+              show={show}
+              delay={1000}
+              autohide
+            >
+              <Toast.Body>{cartmessage}</Toast.Body>
+            </Toast>
+          )}
+          <h5>₹ {item.price * item.quantity}</h5>
+          
         </div>
       </div>
     </>

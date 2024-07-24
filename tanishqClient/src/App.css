@@ -12,6 +12,10 @@
   color: #a35b5cde !important;
 }
 
+.deleteBtn{
+  margin-left: 300px;
+}
+
 .logo {
   width: 80px;
   height: 51.1px;
@@ -373,6 +377,14 @@
   position: sticky;
   top: 100px;
   margin-bottom: 50px;
+}
+
+.chekoutBill{
+  position: sticky;
+  top: 100px;
+  margin-bottom: 50px;
+
+  
 }
 
 .productDetail_img{

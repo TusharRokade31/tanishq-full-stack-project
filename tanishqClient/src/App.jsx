@@ -16,6 +16,7 @@ import CartCheckout from "./components/CartCheckout.jsx";
 import AdminLayout from "./components/AdminLayout.jsx";
 import Dashboard from "./components/Dashboard.jsx";
 import DashboardInfo from "./components/DashboardInfo.jsx";
+import FormComponent from "./components/FormComponent.jsx";
 
 function App() {
   // const location = useLocation()
@@ -32,8 +33,9 @@ function App() {
             <Route path="/" element={<AdminLayout />}>
               <Route path="/admin/dashboard" element={<Dashboard />} />
             </Route>
-            <Route path="/cart-checkout" element={<CartCheckout />} />
+            <Route path="/cart-checkout" element={<FormComponent />} />
             <Route path="/more" element={<More />} />
+            <Route path="/payment" element={<CartCheckout />} />
           </Route>
           <Route path="/product/:product_id" element={<DetailProduct />} />
           <Route path="/" element={<AuthRoute />}>

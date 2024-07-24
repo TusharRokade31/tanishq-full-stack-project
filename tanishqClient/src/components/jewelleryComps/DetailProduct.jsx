@@ -131,30 +131,11 @@ const DetailProduct = () => {
                 Add to Cart
               </button>
 
-              <button className="buy-now-btn ms-2">Buy Now</button>
+              <Link to={"/cart"}><button onClick={handleClick} className="buy-now-btn ms-2">Buy Now</button></Link>
               <Toast onClose={() => setShow(false)} show={show} delay={2000} autohide>
           <Toast.Body>{data.product.category?.name} has been added to your cart <IoIosCheckmarkCircle/></Toast.Body>
         </Toast>
-              <hr />
-              <TextField
-                id="outlined-select-currency"
-                select
-                label="Country"
-                defaultValue="India"
-                className="countryinp"
-              >
-                {currencies.map((option) => (
-                  <MenuItem key={option.value} value={option.value}>
-                    {option.value}
-                  </MenuItem>
-                ))}
-              </TextField>
-              <TextField
-                className="pincodeinp"
-                id="outlined-basic"
-                label="Pincode"
-                variant="outlined"
-              />
+              
               <hr />
               <div className="lh-1">
                 <p>
@@ -174,7 +155,7 @@ const DetailProduct = () => {
                 nearest Tanishq store to get an closer look and know more about
                 the product.
               </p>
-              <button className="talk-expert-btn">Talk to an Expert</button>
+              <a href="tel:+918779618801"><button className="talk-expert-btn">Talk to an Expert</button></a>
             </div>
           </div>
         </div>

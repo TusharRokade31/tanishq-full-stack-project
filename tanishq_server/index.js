@@ -10,6 +10,7 @@ import productrouter from "./routers/product.router.js"
 import categoryrouter from "./routers/category.router.js"
 import cartrouter from "./routers/cart.router.js"
 import otprouter from "./routers/otp.router.js"
+import paymentrouter from "./routers/payment.router.js"
 import cors from "cors"
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
@@ -19,7 +20,7 @@ const __dirname = dirname(__filename);
 
 
 const app = express();
-const port = 8001;
+const port = process.env.PORT || 8001;
 
 app.use(express.static(__dirname));
 app.use(express.json())
@@ -51,4 +52,5 @@ app.use("/products", productrouter);
 app.use("/categories", categoryrouter);
 app.use("/carts", cartrouter);
 app.use("/otp", otprouter);
+app.use('/payment', paymentrouter);
 

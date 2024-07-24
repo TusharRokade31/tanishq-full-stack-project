@@ -7,6 +7,7 @@ import jwt from "jsonwebtoken";
 
 export const SendOtp = async (req, res) => {
   try {
+    
     const Otp = otpGenerator.generate(6, { upperCaseAlphabets: false, lowerCaseAlphabets:false, specialChars: false })
     console.log(Otp)
     const {email} = req.body
