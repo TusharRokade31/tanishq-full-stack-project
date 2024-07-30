@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "name": "Earrings",
+  "description": "Earrings for every womens",
+  "image": "fod-earrings-1708948383984.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7cc48c4cd1c5ee061599"
+  },
+  "name": "Finger Rings",
+  "description": "FingerRings for every womens",
+  "image": "fod-rings-1708948676651.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "name": "Pendants",
+  "description": "Pendants for every womens",
+  "image": "fod-pendants-1708948738900.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7d268c4cd1c5ee06159d"
+  },
+  "name": "Nose pin",
+  "description": "Nose pin for every womens",
+  "image": "fod-nosepins-1708948774424.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7d548c4cd1c5ee06159f"
+  },
+  "name": "Mangalsutras",
+  "description": "Mangalsutras for every womens",
+  "image": "fod-mangalsutra-1708948820565.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7de28c4cd1c5ee0615a1"
+  },
+  "name": "Chains",
+  "description": "Chains for everyone",
+  "image": "fod-chain-1708948962103.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7e348c4cd1c5ee0615a3"
+  },
+  "name": "Gold Coins",
+  "description": "Gold Coins for everyone",
+  "image": "fod-gold-coins-1708949044023.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7e898c4cd1c5ee0615a5"
+  },
+  "name": "Bracelets",
+  "description": "Bracelets for every women",
+  "image": "fod-bracelet-1708949129622.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7ec28c4cd1c5ee0615a7"
+  },
+  "name": "Bangles",
+  "description": "Bangles for every women",
+  "image": "fod-bangle-1708949186532.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7f098c4cd1c5ee0615a9"
+  },
+  "name": "Neckware",
+  "description": "Neckware for every women",
+  "image": "fod-necklace-1708949257115.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7f6a8c4cd1c5ee0615ab"
+  },
+  "name": "Necklace Set",
+  "description": "Necklace Set for every women",
+  "image": "fod-necklace-set-1708949354645.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dc7f9b8c4cd1c5ee0615ad"
+  },
+  "name": "Pendents Set",
+  "description": "Pendents Set for every women",
+  "image": "fod-pendant-set-1708949403003.jpg",
+  "createdAt": {
+    "$date": "2024-02-26T11:47:19.384Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "category"
+},
+{
+  "_id": {
+    "$oid": "65dd942430ad2e63fecca0d6"
+  },
+  "name": "String it",
+  "description": "Collection Neckleace",
+  "image": "string-it-1709020196825.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T07:28:32.905Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "collection"
+},
+{
+  "_id": {
+    "$oid": "65dd952b30ad2e63fecca0d8"
+  },
+  "name": "The Italian Connection",
+  "description": "Collection of Italian design",
+  "image": "italian-connection-1709020459743.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T07:28:32.905Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "collection"
+},
+{
+  "_id": {
+    "$oid": "65dd95a530ad2e63fecca0da"
+  },
+  "name": "Enagagement Rings",
+  "description": "Collection of Enagagement Rings",
+  "image": "engagement-rings-1709020581024.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T07:28:32.905Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "collection"
+},
+{
+  "_id": {
+    "$oid": "65dd992c30ad2e63fecca0dc"
+  },
+  "name": "Pretty In Pink",
+  "description": "Collection of Pretty In Pink jewellerys",
+  "image": "pretty-in-pink-new-1709021484968.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T07:28:32.905Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "latest release"
+},
+{
+  "_id": {
+    "$oid": "65dd998a30ad2e63fecca0de"
+  },
+  "name": "Trending Earrings",
+  "description": "Collection of Trending Earrings",
+  "image": "trending-earrings-1709021578584.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T07:28:32.905Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "latest release"
+},
+{
+  "_id": {
+    "$oid": "65dd99f430ad2e63fecca0e0"
+  },
+  "name": "Modern Designs",
+  "description": "Collection of Contemporary designs",
+  "image": "modern-designs-1709021684953.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T07:28:32.905Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "CategoryType": "latest release"
+}]

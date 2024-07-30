@@ -1,0 +1,307 @@
+[{
+  "_id": {
+    "$oid": "65fc05d9b3889da4ead758b0"
+  },
+  "name": "Tushar ",
+  "email": "rokadetushar@gmail.com",
+  "password": "$2b$10$fwphl7eCT8gWYYniPvrlzOUD88EpzFsHA4DhdcCQ3rOVkYskArINK",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-03-21T10:01:36.473Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66068ad488e3d63ff3fe1f6c"
+  },
+  "name": "mr rokade",
+  "email": "rock@gmail.com",
+  "password": "$2b$10$lCX49gCCpT/V61NzIo/TJu3PqQmc/6O/xEQo4TRHIslT2lJj6mygG",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-03-29T07:14:47.122Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f6f063e3b217e30099793"
+  },
+  "name": "demo",
+  "email": "demo@gmail.com",
+  "password": "$2b$10$WgVx1W5AIgt5LEbLmUPjyeF9bPqiOh2QJNylprzcHJ0sOeQGTcRtW",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T02:12:02.002Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660f700f3e3b217e30099796"
+  },
+  "name": "demo01",
+  "email": "demo01@gmail.com",
+  "password": "$2b$10$XW2lXyMrwF6I6a4Xe.Yo8e2VWp17xIj6/JtYlh3dk.pg.Lvg/pq2S",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T02:12:02.002Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660fb8670d26d394831e6fca"
+  },
+  "name": "Tushar Rokade",
+  "email": "rokadetushar64@gmail.com",
+  "password": "$2b$10$wbkmg40KEMesE/E1jKxEJOi3k.GNif4P6AwzxNc1xWDp4HCkAUQBG",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-05T08:34:11.795Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6613954889b067d8aaeb5116"
+  },
+  "name": "vikas yadav",
+  "email": "vikaskumaryadav2511@gmail.com",
+  "password": "$2b$10$vXx7iyJib0TrM4q4qcEj9.bXCD/e11TRXe4MFTu18dcPayqCrCMr.",
+  "contact": {
+    "$numberLong": "7715914293"
+  },
+  "createdAt": {
+    "$date": "2024-04-08T06:27:12.776Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6618ec8eb91fbcc6c8d7f243"
+  },
+  "name": "Super Admin",
+  "email": "super_admin@gmail.com",
+  "password": "$2b$10$1vtsbj63OifRAW1l5AOXTeH3jwuC.j436b19ljWZVaxJWtPLhXnPG",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-12T05:11:35.364Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6622153e5e7ba05e6914f9d1"
+  },
+  "name": "pranav rokade",
+  "email": "prokade109@gmail.com",
+  "password": "$2b$10$Qu6SkMUz0/jojeQJ9eveY.tZ2TS4aaPF79oVFZYgea3Mk/e5BWd2W",
+  "contact": {
+    "$numberLong": "8087317205"
+  },
+  "createdAt": {
+    "$date": "2024-04-19T06:18:05.854Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b80f1dd04042657766e4a"
+  },
+  "name": "testing",
+  "email": "test@gmail.com",
+  "password": "$2b$10$r.K08pwm7tHGfsuEdBTtReycW0CVfgmquoUgNk.PCRnYjn6K7DE7y",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T08:11:54.766Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b814add040426577670ff"
+  },
+  "name": "testing",
+  "email": "test2@gmail.com",
+  "password": "$2b$10$UrNkINk2XvF.uMKPYEaZ2O.1ze9dkBvefRu8l6fXuXUYchvEYJn3K",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T08:11:54.766Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b81bbdd040426577672e3"
+  },
+  "name": "testing3",
+  "email": "test3@gmail.com",
+  "password": "$2b$10$FU4cgmc8VGTRUPwpawVM9u.A7.xyzmznVVazc2XkW9UW9ymJbL0sG",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T08:11:54.766Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b8249dd040426577673f3"
+  },
+  "name": "test4",
+  "email": "test4@gmail.com",
+  "password": "$2b$10$uGBWDWtTPYcf/ZDettFigOc7VjoTnFmYMXbN2oQTOSF6P9cDi2lJO",
+  "contact": {
+    "$numberLong": "8420979861"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T08:11:54.766Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b8d70a8ad6c3aa9503918"
+  },
+  "name": "testing",
+  "email": "test6@gmail.com",
+  "password": "$2b$10$3qZGu/FI0IAU0gFIW/7qAu9.C8e02si3nPsXCPMRrbZtnq1YtZHTG",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T10:35:53.954Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b8f71001a79612b5658b1"
+  },
+  "name": "testing",
+  "email": "test88@gmail.com",
+  "password": "$2b$10$hlGV6s07Kvnjtj91r63y5.2hSA47DVD2bgJ11W6Q5BbOofsf2FAVu",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T11:25:31.803Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662b929d001a79612b567033"
+  },
+  "name": "fbs s",
+  "email": "demo94@gmail.com",
+  "password": "$2b$10$YXBPPTl.gJ9DXq/ZFsAC7.IPJbGCjO.8JKo9DPKs/WRJBatWoyJ5W",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-26T11:25:31.803Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662d1649ad4b9ae2c9e00f60"
+  },
+  "name": "test",
+  "email": "sufsfns@gmail.com",
+  "password": "$2b$10$5j8pzIiFVFqFkC5fSbqOmuebC74q3tk2witgU7DQi6uBnUn9VQDRu",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "createdAt": {
+    "$date": "2024-04-27T14:49:52.297Z"
+  },
+  "status": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66388e00ddb5c450e8d92989"
+  },
+  "name": "demo5622",
+  "email": "demo5622@gmail.com",
+  "password": "$2b$10$qIPIevqTOkz4q58XT54B8OQKLsEQAs2hhnI8JDbns32KtH9sNJUMy",
+  "contact": {
+    "$numberLong": "8779617701"
+  },
+  "createdAt": {
+    "$date": "2024-05-06T07:58:04.903Z"
+  },
+  "status": 0,
+  "__v": 0,
+  "image": null
+},
+{
+  "_id": {
+    "$oid": "663f444be23a946af4ab3fdc"
+  },
+  "name": "rokade01",
+  "email": "rokade01@gmail.com",
+  "password": "$2b$10$xcGO9h68GksiLYA7YQsF1OAq2bRaq2Evvhjps5nRGCpeJBvQTz8R.",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "image": null,
+  "createdAt": {
+    "$date": "2024-05-11T09:23:20.698Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669f8cca5f0ff5055d2aa1c0"
+  },
+  "name": "tushar rokade",
+  "email": "rokadetushar001@gmail.com",
+  "password": "$2b$10$kYbhpSW5slilv8A/FminpOJxcD2auBg.GEg7UW7qdt.BP46/XK1oy",
+  "contact": {
+    "$numberLong": "8779618801"
+  },
+  "image": null,
+  "createdAt": {
+    "$date": "2024-07-23T10:57:13.572Z"
+  },
+  "status": 1,
+  "__v": 0
+}]

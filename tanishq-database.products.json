@@ -1,0 +1,1235 @@
+[{
+  "_id": {
+    "$oid": "65eed2c2e4aca6467d28c13b"
+  },
+  "title": "Dainty Mesh Diamond Stud Earrings",
+  "price": 44611,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Studs",
+  "description": "These mesh pattern geometric stud earrings crafted in 18 Karat yellow gold studded with diamonds are a must have in your collection Stone Clarity I1I2",
+  "product_details": "Give an eclectic touch to your ensemble with these stunning mesh pattern stud earrings. It is an ideal accessory for all occasions.",
+  "thumbnail": "Dainty_Mesh_Diamond_Stud_Earrings_1-1710150338574.webp",
+  "images": [
+    "Dainty_Mesh_Diamond_Stud_Earrings_1-1710150338577.webp",
+    "Dainty_Mesh_Diamond_Stud_Earrings_2-1710150338577.webp",
+    "Dainty_Mesh_Diamond_Stud_Earrings_3-1710150338580.webp",
+    "Dainty_Mesh_Diamond_Stud_Earrings_4-1710150338581.webp"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": "5%",
+  "height": "1 Cm",
+  "width": "1 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-11T09:16:43.351Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "2.021",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f031a1ef0cc1a0637f3886"
+  },
+  "title": "Fancy Teardrop Drop Earrings",
+  "price": 52825,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Diamond Treats",
+  "style_type": "Drops",
+  "description": "Exude pure elegance with these drop earrings crafted in 18 Karat yellow gold paired with party ensembles, studded with diamonds. Stone Clarity I1/I2",
+  "product_details": "Pure elegance has been brought to life in these beautifully crafted teardrop earrings. Get a feel of chic sophistication adorned in this elegant, yet ostentatious piece!",
+  "thumbnail": "503414DEJADB09_1-1710240161783.jpg",
+  "images": [
+    "503414DEJADB09_4-1710240161783.jpg",
+    "503414DEJADB09_3-1710240161784.jpg",
+    "503414DEJADB09_2-1710240161785.jpg",
+    "503414DEJADB09_1-1710240161786.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "2 Cm",
+  "width": "1.05 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:41:13.616Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "2.994",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f0335af53eff1a916949c0"
+  },
+  "title": "Classy Mesh Hoop Earrings",
+  "price": 32699,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "OTHERS",
+  "description": "Give your outfits a contemporary flair with these trendy mesh pattern hoop earrings, crafted in 18 karat yellow gold",
+  "product_details": "The classy and stylish design of these hoops is the perfect addition to your jewellery collection! Pair them with your work outfits to make them a brilliant ensemble!",
+  "thumbnail": "502920HBGABE00_1-1710240602160.jpg",
+  "images": [
+    "502920HBGABE00_4-1710240602161.jpg",
+    "502920HBGABE00_3-1710240602161.jpg",
+    "502920HBGABE00_2-1710240602163.jpg",
+    "502920HBGABE00_1-1710240602164.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "2.5 Cm",
+  "width": "1 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:49:56.762Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "2.122",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f035d9504cdf1ab4f0a0c1"
+  },
+  "title": "Contemporary Glam Stud Earrings",
+  "price": 26999,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "OTHERS",
+  "description": "Give your outfits a touch of contemporary glam with these modern jali work stud earrings crafted in 18 karat yellow gold",
+  "product_details": "Traditional jali work in a modern silhouette, these lovely stud earrings are crafted keeping in mind, the taste of today's women!",
+  "thumbnail": "502920SBVABE00_1-1710241241336.jpg",
+  "images": [
+    "502920SBVABE00_4-1710241241337.jpg",
+    "502920SBVABE00_3-1710241241338.jpg",
+    "502920SBVABE00_2-1710241241339.jpg",
+    "502920SBVABE00_1-1710241241341.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1.75 Cm",
+  "width": "1.8 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f037bd504cdf1ab4f0a0c7"
+  },
+  "title": "Classic Radiance Drop Earrings",
+  "price": 46321,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Drops",
+  "description": "Unveil an enchanting blend of grace and glamour with these drop earrings in 22 karat yellow gold, as they gracefully unfurl their exquisite harmony.",
+  "product_details": "Step into the realm of refined style with these gold drop earrings, a seamless blend of design and minimalism that illuminates classic radiance. Crafted to infuse a new dimension of sophistication to your style.",
+  "thumbnail": "51D3D2DENABA00_1-1710241725736.jpg",
+  "images": [
+    "51D3D2DENABA00_4-1710241725738.jpg",
+    "51D3D2DENABA00_3-1710241725738.jpg",
+    "51D3D2DENABA00_2-1710241725739.jpg",
+    "51D3D2DENABA00_1-1710241725739.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "2 Cm",
+  "width": "1.8 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "22 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "5.595",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f0389c504cdf1ab4f0a0cd"
+  },
+  "title": "Enchanted Allure Jhumka",
+  "price": 53535,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Jhumka",
+  "description": "Radiating with sublime elegance, this 22-karat yellow gold jhumka, crafted with a partly highlighted rhodium finish, emanates a unique allure.",
+  "product_details": "Indulge in the allure of regal enchantment with this gold jhumkas, exuding clean, perfectly unfussy, and adorned with a fresh, lively spirit that enhances any look.",
+  "thumbnail": "51D3D2JOPABA00_1-1710241948599.jpg",
+  "images": [
+    "51D3D2JOPABA00_2-1710241948600.jpg",
+    "51D3D2JOPABA00_1-1710241948601.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1.5 Cm",
+  "width": "2 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "22 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "6.544",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f03a52504cdf1ab4f0a0d5"
+  },
+  "title": "Mesmerizing Radiance Diamond Hoop Earrings",
+  "price": 34811,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Hoops",
+  "description": "Infuse a perennial sense of elegance into your everyday style by adorning these Diamond Hoop Earrings in 18 karat yellow gold. Stone Clarity: SI2.",
+  "product_details": "Dive into an eternal radiance that refuses to fade, creating moments of sheer awe with these mesmerizing diamond hoop earrings. Meticulously crafted to inject an undeniable burst of bling into your personal style.",
+  "thumbnail": "50D3I2HEMAAA02_1-1710242386478.jpg",
+  "images": [
+    "50D3I2HEMAAA02_3-1710242386478.jpg",
+    "50D3I2HEMAAA02_2-1710242386478.jpg",
+    "50D3I2HEMAAA02_1-1710242386478.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "2 Cm",
+  "width": "1.5 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "2.481",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f03b6d504cdf1ab4f0a0d7"
+  },
+  "title": "Embrace Hearts Diamond Hoop Earrings",
+  "price": 31186,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Hoops",
+  "description": "Fusing a modernist flair with timeless allure, these diamond hoop earrings radiate in the warm embrace of 18 karat rose gold. Stone Clarity: SI2.",
+  "product_details": "Adorn yourself with the modern allure of these diamond hoop earrings, where each glint and glitter in the light tells a story of elegance. Crafted to cast a sparkling spell wherever you go.",
+  "thumbnail": "50D3I2HEWAAA02_1-1710242669222.jpg",
+  "images": [
+    "50D3I2HEWAAA02_3-1710242669223.jpg",
+    "50D3I2HEWAAA02_2-1710242669223.jpg",
+    "50D3I2HEWAAA02_1-1710242669224.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "2 Cm",
+  "width": "1.5 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "2.157",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f03c81504cdf1ab4f0a0d9"
+  },
+  "title": "Dazzling Grace Drop Earrings",
+  "price": 38432,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "PLAINGOLD",
+  "description": "Experience the enchanting allure as these 22 karat yellow gold drop earrings captivate with delightful sparkle in every graceful sway.",
+  "product_details": "A harmonious fusion of minimal style with intricate details, these gold drop earrings create a subtle glimmer. Crafted with a contemporary design, they exude timeless grace.",
+  "thumbnail": "51D3D1DMNABA00_1-1710242945883.jpg",
+  "images": [
+    "51D3D1DMNABA00_2-1710242945883.jpg",
+    "51D3D1DMNABA00_1-1710242945884.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1.8 Cm",
+  "width": "1.2 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "22 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "5.23",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f03e01504cdf1ab4f0a0db"
+  },
+  "title": "Captivating Grace Drop Earrings",
+  "price": 38654,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "PLAINGOLD",
+  "description": "Classy, radiant, and effortlessly stylish, these partly sandblasted 22 karat yellow gold drop earrings sway with grace.",
+  "product_details": "Exemplifying sophistication and enduring allure, these gold drop earrings emanate a timeless elegance that speaks volumes. Radiating charm, it weaves a spell of captivating grace.",
+  "thumbnail": "51D3C2DIRABA00_1-1710243329711.jpg",
+  "images": [
+    "51D3C2DIRABA00_2-1710243329712.jpg",
+    "51D3C2DIRABA00_1-1710243329712.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1.4 Cm",
+  "width": "1 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "22 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "5.26",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f03f6b504cdf1ab4f0a0e1"
+  },
+  "title": "Everyday Charm Diamond Stud Earrings",
+  "price": 30707,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "STUD",
+  "description": "Transcend the ordinary with these diamond stud earrings in 18 karat rose gold, a stunning upgrade to your go-to looks. Stone Clarity: I1-I2.",
+  "product_details": "Experience the enchantment of simplicity, adorned with a touch of refined elegance and luxury in these diamond stud earrings. Their dainty style speaks volumes, transforming every moment into a radiant celebration.",
+  "thumbnail": "50D3I3SZTABA09_1-1710243691983.jpg",
+  "images": [
+    "50D3I3SZTABA09_2-1710243691983.jpg",
+    "50D3I3SZTABA09_1-1710243691986.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1 Cm",
+  "width": "1 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "2.068",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f04038504cdf1ab4f0a0e3"
+  },
+  "title": "Symphony Of Grace Drop Earrings",
+  "price": 32068,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Drops",
+  "description": "Sleek, charming, and elegant, these drop earrings in 22 karat yellow gold gracefully exude timeless allure.",
+  "product_details": "Transform each moment into a symphony of grace and charm by donning these gold drop earrings. With a gentle sway that exudes sophistication, it exudes the essence of your refined style.",
+  "thumbnail": "51D3D1DAUABA00_1-1710243896905.jpg",
+  "images": [
+    "51D3D1DAUABA00_2-1710243896906.jpg",
+    "51D3D1DAUABA00_1-1710243896906.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "2 Cm",
+  "width": "1 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "22 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "4.188",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f040e0504cdf1ab4f0a0e5"
+  },
+  "title": "Trefle Drop Earrings",
+  "price": 49567,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Drops",
+  "description": "Indulge in the dainty yet captivating allure that makes a sleek style statement with these drop earrings in 22 karat yellow gold.",
+  "product_details": "Adorn yourself with these gold drop earrings, where the mirthful design and minimalist elegance creates an everlasting radiance. Crafted for the women who revel in modern elegance.",
+  "thumbnail": "51D3D2DEMABA00_1-1710244064021.jpg",
+  "images": [
+    "51D3D2DEMABA00_4-1710244064022.jpg",
+    "51D3D2DEMABA00_3-1710244064023.jpg",
+    "51D3D2DEMABA00_2-1710244064024.jpg",
+    "51D3D2DEMABA00_1-1710244064025.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "2.5 Cm",
+  "width": "1.3 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "22 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "6.059",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f041e4504cdf1ab4f0a0e7"
+  },
+  "title": "Captivating Elegance Diamond Hoop Earrings",
+  "price": 47518,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Hoops",
+  "description": "Harmonizing elegance and grace, these diamond hoop earrings in 18 karat rose gold reflect classical beauty. Stone Clarity: SI2.",
+  "product_details": "Capturing the essence of enduring beauty, these diamond hoop earrings emanate timeless allure. Meticulously crafted for moments when a touch of modernity and airy gracefulness is called for.",
+  "thumbnail": "50D3I2HQTAAA02_1-1710244324549.jpg",
+  "images": [
+    "50D3I2HQTAAA02_3-1710244324550.jpg",
+    "50D3I2HQTAAA02_2-1710244324555.jpg",
+    "50D3I2HQTAAA02_1-1710244324555.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1.5 Cm",
+  "width": "2 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "2.462",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f042c7504cdf1ab4f0a0e9"
+  },
+  "title": "Sophisticated Pearl Drop Earrings",
+  "price": 28725,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Padmaja",
+  "style_type": "Drops",
+  "description": "Revel in the beauty of this sophisticated pair of drop earrings, crafted in 22 karat yellow gold, with cubic zirconias and pearls",
+  "product_details": "These classic drop earrings are enticing and elegant. The shimmering cubic zirconias and pristine pearls are guaranteed to highlight your natural beauty.",
+  "thumbnail": "51D3B1DQGABA88_1-1710244551637.jpg",
+  "images": [
+    "51D3B1DQGABA88_2-1710244551637.jpg",
+    "51D3B1DQGABA88_1-1710244551638.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "2.1 Cm",
+  "width": "0.9 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "22 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "4.188",
+  "jewellery_type": "Jewellery With Gemstones"
+},
+{
+  "_id": {
+    "$oid": "65f0439c504cdf1ab4f0a0eb"
+  },
+  "title": "Delicate Mesh Pearl and Diamond Stud Earrings",
+  "price": 35538,
+  "category": {
+    "$oid": "65dc7b9f8c4cd1c5ee061597"
+  },
+  "collections": "Padmaja",
+  "style_type": "Studs",
+  "description": "These stud earrings with a delicate mesh pattern and pearls are crafted in 18 karat rose gold, studded with diamonds. Stone Clarity: I1/I2",
+  "product_details": "Enjoy the grace of intricate design and the beauty of fresh flowers with this pair of stud earrings expertly crafted to complement all your ensembles.",
+  "thumbnail": "50D3I1SRQAAA29_1-1710244764591.jpg",
+  "images": [
+    "50D3I1SRQAAA29_3-1710244764592.jpg",
+    "50D3I1SRQAAA29_2-1710244764592.jpg",
+    "50D3I1SRQAAA29_1-1710244764594.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1.1 Cm",
+  "width": "0.7 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-12T10:54:20.469Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "1.739",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f1546b61c7a462741ae2d5"
+  },
+  "title": "Regal Enchantment Solitaire Pendant",
+  "price": 61757,
+  "category": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "collections": "Solitaires",
+  "style_type": "Modern Wear",
+  "description": "Sublime and ritzy, this timeless solitaire pendant in 18 karat yellow gold makes a stunning statement of elegance. Stone Clarity: SI1",
+  "product_details": "Delicate brilliance meets ultra-classy sophistication in this solitaire pendant, unveiling the core of timeless elegance and luminosity. Please note: The chain in the image is for representative purpose only, and the actual product comes without a chain.",
+  "thumbnail": "50S1D1PDFAAY85_1-1710314603147.jpg",
+  "images": [
+    "50S1D1PDFAAY85_3-1710314603148.jpg",
+    "50S1D1PDFAAY85_2-1710314603148.jpg",
+    "50S1D1PDFAAY85_1-1710314603150.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-13T07:22:56.704Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "0.571",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f15c9461c7a462741ae55f"
+  },
+  "title": "Luminous Swirls Diamond Pendant",
+  "price": 46425,
+  "category": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Diamond Jewellery",
+  "description": "Interrupted swirls of luminous gold are encrusted with tiny diamonds in this artistic pendant, crafted in 18 karat rose gold. Stone Clarity: SI2\n",
+  "product_details": "Swirl onlookers in the charm of your style with this stunning pendant. The chain in the image is for representative purpose only and the original product comes without a chain.",
+  "thumbnail": "506060PKLAAA02_1-1710316692628.jpg",
+  "images": [
+    "506060PKLAAA02_4-1710316692628.jpg",
+    "506060PKLAAA02_3-1710316692628.jpg",
+    "506060PKLAAA02_2-1710316692629.jpg",
+    "506060PKLAAA02_1-1710316692650.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1.81 Cm",
+  "width": "1.33 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-13T07:22:56.704Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "1.374",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f15d6b61c7a462741ae562"
+  },
+  "title": "Slender Petals Diamond Pendant",
+  "price": 41429,
+  "category": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "collections": "Padmaja",
+  "style_type": "Diamond Jewellery",
+  "description": "Slender petals of the flower are encrusted with shimmering diamonds in this pendant, crafted in 18 karat rose gold",
+  "product_details": "Bring floral radiance into your outfit with this pendant. The chain in this image is for representative purpose only and the product comes without a chain.",
+  "thumbnail": "50D3I1PSAAAA02_1-1710316907916.jpg",
+  "images": [
+    "50D3I1PSAAAA02_4-1710316907917.jpg",
+    "50D3I1PSAAAA02_3-1710316907923.jpg",
+    "50D3I1PSAAAA02_2-1710316907924.jpg",
+    "50D3I1PSAAAA02_1-1710316907925.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1.1 Cm",
+  "width": "1.1 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-13T07:22:56.704Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "1.065",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f15e5f61c7a462741ae565"
+  },
+  "title": "Modish Contemporary Leaf Motif Diamond Pendant",
+  "price": 42461,
+  "category": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Diamond Jewellery",
+  "description": "Keep it classy and trendy. Elevate your Modern Wear with this Fancy Leaf Motif Diamond Pendant crafted in 18 Karat Yellow Gold. Stone Clarity SI2.",
+  "product_details": "Let your vogue persona captivate others when you wear this Modish Contemporary Leaf Motif Diamond Pendant. The chain in the image is for representative purpose only and the product comes without a chain.",
+  "thumbnail": "502415PBRAAB02_1-1710317151379.jpg",
+  "images": [
+    "502415PBRAAB02_4-1710317151381.jpg",
+    "502415PBRAAB02_3-1710317151382.jpg",
+    "502415PBRAAB02_2-1710317151383.jpg",
+    "502415PBRAAB02_1-1710317151384.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-13T07:22:56.704Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "1.92",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f16528ff1414a63370e21d"
+  },
+  "title": "Gleaming Bloom Diamond Pendant",
+  "price": 35818,
+  "category": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "collections": "Padmaja",
+  "style_type": "Diamond Jewellery",
+  "description": "Bring the radiance of flowers with this charming pendant, crafted in 18 karat rose gold, studded with diamonds. Stone Clarity: SI2",
+  "product_details": "Breathe new life into your personal style with this floral pendant. The chain in this image is for representative purpose only and the product comes without a chain.",
+  "thumbnail": "50D3I1PSDAAA02_1-1710318888457.jpg",
+  "images": [
+    "50D3I1PSDAAA02_4-1710318888458.jpg",
+    "50D3I1PSDAAA02_3-1710318888459.jpg",
+    "50D3I1PSDAAA02_2-1710318888460.jpg",
+    "50D3I1PSDAAA02_1-1710318888460.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "0.9 Cm",
+  "width": "0.6 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-13T08:34:20.724Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "1.297",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f16696ff1414a63370e224"
+  },
+  "title": "Delicate Circlet Diamond Pendant",
+  "price": 41085,
+  "category": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "collections": "Bestsellers",
+  "style_type": "Diamond Jewellery",
+  "description": "A delicate circlet of gold is encrusted with dainty diamonds in this charming pendant crafted in 18 karat rose gold. Stone Clarity: SI2",
+  "product_details": "Make your workday a stylish affair when this pendant is in tow. The chain in the image is for representative purpose only and the original product comes without a chain.",
+  "thumbnail": "502998PTSAAA02_1-1710319254391.jpg",
+  "images": [
+    "502998PTSAAA02_3-1710319254392.jpg",
+    "502998PTSAAA02_2-1710319254393.jpg",
+    "502998PTSAAA02_1-1710319254393.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "1.77 Cm",
+  "width": "1.06 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-13T08:34:20.724Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "0.843",
+  "jewellery_type": "Diamond Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f16746ff1414a63370e227"
+  },
+  "title": "Charming Paisley Pendant",
+  "price": 26414,
+  "category": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "collections": "Bestsellers",
+  "style_type": "PLAINGOLD",
+  "description": "The charm of nature is captured beautifully in this paisley pendant crafted in 22 karat yellow gold, in rhodium finish",
+  "product_details": "Spruce up your daily wear with this paisley pendant and flaunt it everywhere you go. The chain in the image is for representative purpose only and the actual product comes without a chain.",
+  "thumbnail": "51D2D2PMMAAA00_1-1710319430241.jpg",
+  "images": [
+    "51D2D2PMMAAA00_2-1710319430241.jpg",
+    "51D2D2PMMAAA00_1-1710319430242.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": "4.3 Cm",
+  "width": "1.5 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "22 Karat",
+  "createdAt": {
+    "$date": "2024-03-13T08:34:20.724Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "65f167a9ff1414a63370e22a"
+  },
+  "title": "Unique Allure Pendant",
+  "price": 20367,
+  "category": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "collections": "Bestsellers",
+  "style_type": "PLAINGOLD",
+  "description": "Imbue your style with an additional touch of stylish finesse with this 22 karat yellow gold pendant, highlighted by rhodium.",
+  "product_details": "Capturing attention with its contemporary allure, this gold pendant embodies a sleek design that speaks to the discerning taste of the modern trendsetter. Crafted for the women who revel in distinctive and unique style. Please Note: The chain in the image is for representative purpose only, and the actual product comes without a chain.",
+  "thumbnail": "51D2A1PWPAAA00_1-1710319529867.jpg",
+  "images": [
+    "51D2A1PWPAAA00_2-1710319529868.jpg",
+    "51D2A1PWPAAA00_1-1710319529870.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "22 Karat",
+  "createdAt": {
+    "$date": "2024-03-13T08:34:20.724Z"
+  },
+  "status": 1,
+  "__v": 0,
+  "gross_weight": "2.405",
+  "jewellery_type": "Gold Jewellery"
+},
+{
+  "_id": {
+    "$oid": "66052e8ca3861001378d67cc"
+  },
+  "title": "Intertwining Leaves Rose Gold and Diamond Finger Ring",
+  "price": 29287,
+  "category": {
+    "$oid": "65dc7cc48c4cd1c5ee061599"
+  },
+  "collections": "Aarambh",
+  "style_type": null,
+  "description": "Accentuate your majestic beauty with this 18 Karat Rose Gold finger ring with diamonds in a leaf pattern for extra dazzle. Stone Clarity I1I2",
+  "product_details": "Revel in the joys of being a woman with this intricately designed rose gold finger ring featuring diamonds embellished in leaf motifs.",
+  "thumbnail": "503419FIPAA09_1-1711615628370.jpg",
+  "images": [
+    "503419FIPAA09_5-1711615628371.jpg",
+    "503419FIPAA09_4-1711615628372.jpg",
+    "503419FIPAA09_3-1711615628374.jpg",
+    "503419FIPAA09_2-1711615628375.jpg",
+    "503419FIPAA09_1-1711615628375.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "gross_weight": "1.436",
+  "jewellery_type": "Diamond Jewellery",
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-28T08:22:18.855Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606a3ce88e3d63ff3fed2d7"
+  },
+  "title": "Gleaming Flower Diamond Ring",
+  "price": 29687,
+  "category": {
+    "$oid": "65dc7cc48c4cd1c5ee061599"
+  },
+  "collections": "Bestsellers",
+  "style_type": "STUDDED",
+  "description": "Revel in the floral beauty of this gleaming ring crafted in 18 karat rose gold, studded with diamonds. Stone Clarity: SI2",
+  "product_details": "The lush beauty of this floral ring is designed to give your style a flourish of glamour. Indulge in the grace of nature and leave everyone bedazzled with this piece.",
+  "thumbnail": "50D2J1FLCAA02_1-1711711182910.jpg",
+  "images": [
+    "50D2J1FLCAA02_5-1711711182912.jpg",
+    "50D2J1FLCAA02_4-1711711182913.jpg",
+    "50D2J1FLCAA02_3-1711711182913.jpg",
+    "50D2J1FLCAA02_2-1711711182915.jpg",
+    "50D2J1FLCAA02_1-1711711182916.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "gross_weight": "2.666",
+  "jewellery_type": "Diamond Jewellery",
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-29T07:14:47.260Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6607d0481a1eaf4a434b0c38"
+  },
+  "title": "Fancy Glossy Gold and Diamond Finger Ring",
+  "price": 38612,
+  "category": {
+    "$oid": "65dc7cc48c4cd1c5ee061599"
+  },
+  "collections": "Bestsellers",
+  "style_type": "STUDDED",
+  "description": "Timeless and supreme, this 18 Karat Yellow Gold diamond finger ring comes with a fine glossy finish. Stone Clarity SI2",
+  "product_details": "Illuminate your workwear with the timeless brilliance of this diamond and gold finger ring!",
+  "thumbnail": "500596FAAAB02_1-1711788104252.jpg",
+  "images": [
+    "500596FAAAB02_5-1711788104254.jpg",
+    "500596FAAAB02_4-1711788104255.jpg",
+    "500596FAAAB02_3-1711788104255.jpg",
+    "500596FAAAB02_2-1711788104259.jpg",
+    "500596FAAAB02_1-1711788104260.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "gross_weight": "2.439",
+  "jewellery_type": "Diamond Jewellery",
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-03-30T07:50:35.698Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bdebc13ea7f2c148dde48"
+  },
+  "title": "Vintage Elegance Ring",
+  "price": 45201,
+  "category": {
+    "$oid": "65dc7cc48c4cd1c5ee061599"
+  },
+  "collections": "Sparkling Avenues",
+  "style_type": "STUDDED",
+  "description": "Exude timeless elegance when you adorn this charming ring with your ensembles, featuring a classic design accentuated with diamonds!",
+  "product_details": "Be a classic in an era of fleeting trends with the designs from our Sparkling Avenues collection!",
+  "thumbnail": "50D2FFFQVAA02_1-1712053948744.jpg",
+  "images": [
+    "50D2FFFQVAA02_4-1712053948746.jpg",
+    "50D2FFFQVAA02_3-1712053948747.jpg",
+    "50D2FFFQVAA02_2-1712053948749.jpg",
+    "50D2FFFQVAA02_1-1712053948751.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "gross_weight": "2.37",
+  "jewellery_type": "Diamond Jewellery",
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-04-02T06:57:18.024Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be0ce13ea7f2c148dde53"
+  },
+  "title": "Glinting Triangular Diamond Ring",
+  "price": 37705,
+  "category": {
+    "$oid": "65dc7cc48c4cd1c5ee061599"
+  },
+  "collections": "Padmaja",
+  "style_type": "STUDDED",
+  "description": "Add glam and style to your look with this triangular ring, crafted in 18 karat rose gold, studded with diamonds. Stone Clarity: SI2",
+  "product_details": "Let your panache shine through every time you adorn this ring. Suitable for special occasions as well as everyday use, this piece is the only style staple you need.",
+  "thumbnail": "50D3B2FTMAA02_1-1712054478808.jpg",
+  "images": [
+    "50D3B2FTMAA02_5-1712054478809.jpg",
+    "50D3B2FTMAA02_4-1712054478809.jpg",
+    "50D3B2FTMAA02_3-1712054478818.jpg",
+    "50D3B2FTMAA02_2-1712054478828.jpg",
+    "50D3B2FTMAA02_1-1712054478828.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "gross_weight": "1.942",
+  "jewellery_type": "Diamond Jewellery",
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-04-02T06:57:18.024Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be1bc13ea7f2c148dde56"
+  },
+  "title": "Contemporary Pointer Diamond Ring",
+  "price": 32275,
+  "category": {
+    "$oid": "65dc7cc48c4cd1c5ee061599"
+  },
+  "collections": "Bestsellers",
+  "style_type": "STUDDED",
+  "description": "Blend into any occasion with this pointer ring crafted in 18 karat yellow gold studded with diamonds in high polish finish. Stone Clarity SI2",
+  "product_details": "This elegant finger ring is the perfect accessory for the modern day woman. Flaunt your style whether you're climbing up the corporate ladder or keeping it casual.",
+  "thumbnail": "502015FAPAB02_1-1712054716924.jpg",
+  "images": [
+    "502015FAPAB02_5-1712054716925.jpg",
+    "502015FAPAB02_4-1712054716926.jpg",
+    "502015FAPAB02_3-1712054716945.jpg",
+    "502015FAPAB02_2-1712054716947.jpg",
+    "502015FAPAB02_1-1712054716947.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "gross_weight": "1.69",
+  "jewellery_type": "Diamond Jewellery",
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-04-02T06:57:18.024Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660be85b13ea7f2c148de2fa"
+  },
+  "title": "Chic Wrap-Around Diamond Ring",
+  "price": 30131,
+  "category": {
+    "$oid": "65dc7cc48c4cd1c5ee061599"
+  },
+  "collections": "Bestsellers",
+  "style_type": null,
+  "description": "Wrap elegance around your finger just like this chic wrap-around ring crafted in 18 karat rose gold, studded with diamonds. Stone Clarity: I1/I2",
+  "product_details": "Make your outfits classier with this dainty ring. Whether it's a night out with friends or a full day of work, this ring will ensure you always look in style!",
+  "thumbnail": "50D2CAFBGAA09_1-1712056411093.jpg",
+  "images": [
+    "50D2CAFBGAA09_5-1712056411093.jpg",
+    "50D2CAFBGAA09_4-1712056411093.jpg",
+    "50D2CAFBGAA09_3-1712056411095.jpg",
+    "50D2CAFBGAA09_2-1712056411096.jpg",
+    "50D2CAFBGAA09_1-1712056411096.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "gross_weight": "2.062",
+  "jewellery_type": "Diamond Jewellery",
+  "height": null,
+  "width": null,
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-04-02T06:57:18.024Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66310680dfa67f05b492e738"
+  },
+  "title": "Abstact Floral Diamond Pendant",
+  "price": 35512,
+  "category": {
+    "$oid": "65dc7d028c4cd1c5ee06159b"
+  },
+  "collections": "Padmaja",
+  "style_type": null,
+  "description": "Charming floral and abstract patterns come together in this pendant, crafted in 18 karat rose gold, studded with diamonds. Stone Clarity: SI2",
+  "product_details": "Embody a shimmery elegance with this abstract pendant. The chain in this image is for representative purpose only and the product comes without a chain.",
+  "thumbnail": "50D3B3PRAAAA02_1-1714488960733.jpg",
+  "images": [
+    "50D3B3PRAAAA02_2-1714488960735.jpg",
+    "50D3B3PRAAAA02_1-1714488960735.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": null,
+  "gross_weight": "1.538",
+  "jewellery_type": "Diamond Jewellery",
+  "height": "1.9 Cm",
+  "width": "1.1 Cm",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-04-30T14:24:22.042Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633361efc5d72fb800a5b1f"
+  },
+  "title": "Leafy Radiance Diamond Bangle",
+  "price": 66336,
+  "category": {
+    "$oid": "65dc7ec28c4cd1c5ee0615a7"
+  },
+  "collections": "Padmaja",
+  "style_type": "",
+  "description": "Sleek with the radiance of leaves, this bangle is crafted in 18 karat yellow gold, studded with diamonds. Stone Clarity: SI2",
+  "product_details": "This bangle features a subtle leafy design that is exquisitely attractive. Add a touch of delight to your everyday style with this piece.",
+  "thumbnail": "50D3B3VOC1A02_1-1714632222667.jpg",
+  "images": [
+    "50D3B3VOC1A02_3-1714632222670.jpg",
+    "50D3B3VOC1A02_2-1714632222671.jpg",
+    "50D3B3VOC1A02_1-1714632222672.jpg"
+  ],
+  "gender": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "discount": "",
+  "gross_weight": "6.206",
+  "jewellery_type": "Diamond Jewellery",
+  "height": "",
+  "width": "",
+  "metal": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "purity": "18 Karat",
+  "createdAt": {
+    "$date": "2024-05-02T06:33:43.556Z"
+  },
+  "status": 1,
+  "__v": 0
+}]

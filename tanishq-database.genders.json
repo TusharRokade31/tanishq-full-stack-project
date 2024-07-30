@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65dd8f2530ad2e63fecca0d0"
+  },
+  "name": "Men",
+  "image": "Men-1709018917131.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T07:28:32.852Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd8f3b30ad2e63fecca0d2"
+  },
+  "name": "Women",
+  "image": "Woman-1709018939620.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T07:28:32.852Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd8fdf30ad2e63fecca0d4"
+  },
+  "name": "Kids & Teens",
+  "image": "kid-1709019103510.jpg",
+  "createdAt": {
+    "$date": "2024-02-27T07:28:32.852Z"
+  },
+  "status": 1,
+  "__v": 0
+}]

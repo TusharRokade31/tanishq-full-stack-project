@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "65dc5ed972aa148923e084ea"
+  },
+  "name": "Diamond",
+  "description": "Diamonds are a form of carbon, made up of nearly 100% carbon atoms. The arrangement of the carbon atoms in a diamond's lattice gives it its unique properties.",
+  "image": null,
+  "createdAt": {
+    "$date": "2024-02-26T09:43:56.803Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc5efe72aa148923e084ec"
+  },
+  "name": "Gold",
+  "description": "Gold is a soft, dense, yellow metal that is malleable and ductile. It is also a good conductor of heat and electricity, and resists corrosion and tarnishing.",
+  "image": null,
+  "createdAt": {
+    "$date": "2024-02-26T09:43:56.803Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc5f6972aa148923e084ee"
+  },
+  "name": "Platinum",
+  "description": "Platinum is a chemical element with the symbol Pt and atomic number 78. It is a dense, malleable, ductile, highly unreactive, precious, silverish-white transition metal.",
+  "image": null,
+  "createdAt": {
+    "$date": "2024-02-26T09:43:56.803Z"
+  },
+  "status": 1,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc5f9272aa148923e084f0"
+  },
+  "name": "Gemstone",
+  "description": "A gemstone is a material that can be cut and polished for use in jewelry or other ornamental applications. They are also known as fine gems, jewels, precious stones, or semiprecious stones.",
+  "image": null,
+  "createdAt": {
+    "$date": "2024-02-26T09:43:56.803Z"
+  },
+  "status": 1,
+  "__v": 0
+}]
