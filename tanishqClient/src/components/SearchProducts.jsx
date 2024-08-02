@@ -13,7 +13,7 @@ const SearchProducts = () => {
   }, [search])
 
   const SearchData = useSelector((state) => state.productss.Searchproducts);
-  const trimData = SearchData
+  const trimData = SearchData.slice(0,4)
 
 
   const handleOnchange = (e) => {
