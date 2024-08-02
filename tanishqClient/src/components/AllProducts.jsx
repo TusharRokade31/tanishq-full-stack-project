@@ -35,9 +35,7 @@ const AllProducts = () => {
   // const [pageCount, Setpagecount] = useState(1)
   const { category } = useParams();
   const categoryName = category
-    .replace(/-/g, " ")
-    .split(" ")
-    .join(" ");
+   .replace(/-/g, " ").split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
 
   const dispatch = useDispatch();
 
