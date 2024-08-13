@@ -88,7 +88,7 @@ const productSlice = createSlice({
       })
       .addCase(getSearchProducts.fulfilled, (state, action) => {
         state.isLoading = false;
-        state.Searchproducts = action.payload.Searchproducts;
+        state.Searchproducts = action.payload.products;
         // state.productImages = action.payload.data.images;
       })
       .addCase(getSearchProducts.rejected, (state, action) => {
